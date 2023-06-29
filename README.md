@@ -1,7 +1,6 @@
 ### Hi there! 🧑‍💻
 
 - 💁 My name is Athena :)
-- 🗣 My pronouns are they/them.
 - 👾 I'm a full stack developer.
 - 💖 I love creating cute, creative websites and apps.
 - 👷 I’m currently working on HAUL'R's website using MERN.
